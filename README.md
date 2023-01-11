@@ -3,9 +3,10 @@
 <h1 align="center">👋 Hello, folks! My name is Annika Chandra</h1>
 <h3 align="center">An aspiring Software Engineer in the making.</h3>
 
-<img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 🔭 I’m currently a final year Computer Science Undergrad, pursuing B.Tech from VIT Bhopal University.
+
+<img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 🌱 I’m currently learning AWS Cloud
 
