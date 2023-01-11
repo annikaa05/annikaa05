@@ -5,13 +5,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-🌱 I’m currently learning **AWS Cloud**
+🔭 I’m currently a final year Computer Science Undergrad, pursuing B.Tech from VIT Bhopal University.
 
-😄 Pronouns: **She/her**
+🌱 I’m currently learning **AWS Cloud**
 
 💬 Ask me about **SQL, DSA, OS, Frontend, ML**
 
-⚡ Fun fact **Dogs, cooking, journaling and dance keeps me spiritually happy!**
+😄 Pronouns: **She/her**
+
+⚡ Fun fact: **Dogs, cooking, journaling and dance keeps me spiritually happy!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
